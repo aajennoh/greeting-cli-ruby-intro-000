@@ -1,6 +1,6 @@
 # code the #greeting method here!
 def greeting(name)
   puts "Hello #{name}. It's nice to meet you."
-  name = "Sally.gets.strip.chomp"
+  name = "Sally".gets.string.chomp
 
 end
